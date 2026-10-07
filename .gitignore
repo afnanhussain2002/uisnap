@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build output (rebuilt by "npm install" / "npm run build")
+dist/
+
+# Screenshots and saved login cookies if you run uisnap inside this folder
+.uisnap/
+
+# Local backups and packed releases
+*.backup/
+*.tgz
+
+# Logs and OS / editor files
+npm-debug.log*
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
