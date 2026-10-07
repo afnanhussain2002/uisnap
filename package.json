@@ -1,6 +1,11 @@
 {
-  "name": "uisnap",
+  "name": "@shipitafnan/uisnap",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afnanhussain2002/uisnap.git"
+  },
+  "homepage": "https://github.com/afnanhussain2002/uisnap#readme",
   "description": "Before/after UI screenshots for AI coding agents. One command gives you a shareable comparison image.",
   "type": "module",
   "bin": {
